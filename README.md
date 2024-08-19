@@ -1,7 +1,5 @@
 # Garbage Classification with TensorFlow and Keras
 
-Welcome to my Garbage Classification project! This repository demonstrates my skills in Python and machine learning through a practical application of classifying waste images using deep learning techniques.
-
 ## Project Overview
 
 The goal of this project is to develop a machine-learning model that can accurately classify images of different types of garbage. Using TensorFlow and Keras, I've built a Convolutional Neural Network (CNN) to identify and categorize waste items.
