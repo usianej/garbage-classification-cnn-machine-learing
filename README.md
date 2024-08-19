@@ -1,5 +1,3 @@
-# garbage-classification-cnn-machine-learing
-
 # Garbage Classification with TensorFlow and Keras
 
 Welcome to my Garbage Classification project! This repository demonstrates my skills in Python and machine learning through a practical application of classifying waste images using deep learning techniques.
