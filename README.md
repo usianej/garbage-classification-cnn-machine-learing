@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/garbage-classification.git
+   git clone [https://github.com/your-username/garbage-classification.git](https://github.com/usianej/garbage-classification-cnn-machine-learing)
    cd garbage-classification
    ```
 
