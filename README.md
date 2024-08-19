@@ -41,13 +41,6 @@ To run this project locally, follow these steps:
 5. **Evaluate and Predict**:
    Use `evaluate_model.py` to assess model performance and `predict.py` for making predictions on new images.
 
-## Project Structure
-
-- `data/`: Contains dataset and preprocessing instructions.
-- `src/`: Source code including model architecture, training, and evaluation scripts.
-- `notebooks/`: Jupyter notebooks for exploratory analysis and visualization.
-- `requirements.txt`: List of Python dependencies.
-
 ## Contributing
 
 Feel free to fork this repository and submit pull requests. Contributions, issues, and feedback are welcome!
