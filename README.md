@@ -4,7 +4,7 @@ Welcome to my Garbage Classification project! This repository demonstrates my sk
 
 ## Project Overview
 
-The goal of this project is to develop a machine learning model that can accurately classify images of different types of garbage. Using TensorFlow and Keras, I've built a Convolutional Neural Network (CNN) to identify and categorize waste items.
+The goal of this project is to develop a machine-learning model that can accurately classify images of different types of garbage. Using TensorFlow and Keras, I've built a Convolutional Neural Network (CNN) to identify and categorize waste items.
 
 ## Key Features
 
